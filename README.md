@@ -1,6 +1,6 @@
 # Lab 4: Reinforcement Learning
 
-This lab will go through some fundamental Reinforcement Learning algorithms on the classic problems BlackJack and FrozenLake. The entry point into this lab is lab_part1. The rest should be explained from there. 
+This lab will go through some fundamental Reinforcement Learning algorithms on the classic problems BlackJack and FrozenLake. The entry point into this lab is `lab_part1`. The rest should be explained from there. There are also a number of auxilliary files that contains the environments, provide some plotting etc. 
 
 Before starting, you will need two packages you might not have used before, `gymnasium` and `datasets`. 
 
